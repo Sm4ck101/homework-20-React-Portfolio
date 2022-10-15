@@ -30,9 +30,9 @@ export const projects = [
     deployed: "https://sm4ck101.github.io/homework-3-password-generator/",
   },
   {
-    name: "Weather Dashboard",
-    image: "weather-dashboard.jpg",
-    github: "https://github.com/Sm4ck101/homework-6-weather-dashboard",
-    deployed: "https://sm4ck101.github.io/homework-6-weather-dashboard/",
+    name: "Music Meetup",
+    image: "music-meetup.jpg",
+    github: "https://github.com/luketorv/music-meetup2",
+    deployed: "https://boiling-plateau-66922.herokuapp.com/",
   },
 ];
